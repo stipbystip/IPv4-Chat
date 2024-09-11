@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1724496677 source:/home/stepan/Proga/Infotecs/Infotecs/main.cpp
+	<iostream>
+	<thread>
+	<string>
+	<cstring>
+	<sys/socket.h>
+	<cstdlib>
+	<unistd.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<sstream>
+	<stdexcept>
+	<netdb.h>
+
